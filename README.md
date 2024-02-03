@@ -2,7 +2,7 @@
 
 - 👋 I’m SC Rafi
 <!--- 👀 I’m interested in ...--->
-- 🌱 I’m currently learning Python Programming Language.
+- 🌱 I’m currently learning Javascript Programming Language.
 <!--- 💞️ I’m looking to collaborate on ...--->
 - 📫 You can reach me on <a href="https://twitter.com/mscrafi">Twitter</a>.
 
